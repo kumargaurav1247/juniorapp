@@ -35,7 +35,7 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id = "@+id/newstationId"
+            android:id = "@+id/newPtlStationId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
@@ -45,6 +45,7 @@
             android:textStyle="bold" />
 
         <ImageView
+            android:id = "@+id/hhtSuccessfullyMapped"
             android:layout_width="wrap_content"
             android:layout_height="60dp"
             android:layout_gravity="center"
